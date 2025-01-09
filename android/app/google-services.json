@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880235945136",
+    "project_id": "fir-signup-cb5c2",
+    "storage_bucket": "fir-signup-cb5c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880235945136:android:7b4d591ee68253f02caf75",
+        "android_client_info": {
+          "package_name": "com.yourcompany.yourappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880235945136-4qkuu8l256svnnmafb1kuibnbcdm4m04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2a_zgLWnl7smmFmC5-ONbuxDsuKr95U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880235945136-4qkuu8l256svnnmafb1kuibnbcdm4m04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
